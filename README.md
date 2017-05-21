@@ -3,9 +3,9 @@ This repository constains the code for <i>Reoriented Normal Mapping</i> [1], a t
 
 <img src="https://github.com/zigguratvertigo/ReorientedNormalMapping/blob/master/Website/RNM.png">
 
-The code is provided in the form of a RenderMonkey project. You can download RenderMonkey [here](http://gpuopen.com/archive/gamescgi/rendermonkey-toolsuite/).
+Details regarding the technique and how it compares to other approaches can be found [here](http://blog.selfshadow.com/publications/blending-in-detail/).
 
-Additional details regarding the technique and how it compares to other approaches can be found [here](http://blog.selfshadow.com/publications/blending-in-detail/).
+The code is provided in the form of a RenderMonkey project. You can download RenderMonkey [here](http://gpuopen.com/archive/gamescgi/rendermonkey-toolsuite/).
 
 # Implementation Summary
 <img src="https://github.com/zigguratvertigo/ReorientedNormalMapping/blob/master/Website/RNM2.png">
