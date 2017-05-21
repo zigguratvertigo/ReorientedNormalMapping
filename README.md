@@ -1,5 +1,5 @@
 # Reoriented Normal Mapping
-This repository constains the code for <i>Reoriented Normal Mapping</i>, a technique to compute proper blending of tangent space normals via quaternion rotation. 
+This repository constains the code for <i>Reoriented Normal Mapping</i> [1], a technique to compute proper blending of tangent space normals via quaternion rotation. 
 
 <img src="https://github.com/zigguratvertigo/ReorientedNormalMapping/blob/master/Website/RNM.png">
 
